@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Treinamentos\\Projeto Tim\\SOLID\\principios-solid-udemy\\Cursos_Fundamentos_OOP\\ConsoleAppExemplo1\\ConsoleAppExemplo1.csproj",
-      "projectName": "ConsoleAppExemplo1",
-      "projectPath": "C:\\Treinamentos\\Projeto Tim\\SOLID\\principios-solid-udemy\\Cursos_Fundamentos_OOP\\ConsoleAppExemplo1\\ConsoleAppExemplo1.csproj",
+      "projectUniqueName": "C:\\Treinamentos\\Projeto Tim\\SOLID\\principios-solid-udemy\\Cursos_Fundamentos_OOP\\ConsoleAppExemplo1\\Aula_Classes1.csproj",
+      "projectName": "Aula_Classes1",
+      "projectPath": "C:\\Treinamentos\\Projeto Tim\\SOLID\\principios-solid-udemy\\Cursos_Fundamentos_OOP\\ConsoleAppExemplo1\\Aula_Classes1.csproj",
       "packagesPath": "C:\\Users\\aferreir\\.nuget\\packages\\",
       "outputPath": "C:\\Treinamentos\\Projeto Tim\\SOLID\\principios-solid-udemy\\Cursos_Fundamentos_OOP\\ConsoleAppExemplo1\\obj\\",
       "projectStyle": "PackageReference",
